@@ -11,7 +11,7 @@ while 1:
     if value == 0:
         elaspedTime = time.time()-start
         print(elaspedTime / 200)
-        start=time.time()
+        start = time.time()
     while value == 0:
         value = pi.read(4)
     

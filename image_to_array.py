@@ -12,3 +12,4 @@ with open('picture.txt', 'w') as f:
 
 #for pixel in iter(im.getdata()):
 #    print (pixel)
+#hello editing to see if i can push and pull
