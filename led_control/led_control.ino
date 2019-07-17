@@ -21,7 +21,7 @@ void setup() {
 //  for (int p=0;p< NUM_LEDS;p++){
 //    leds[p] = CRGB::Black;  
 //    FastLED.show();
-  }
+//  }
 
   if (!SD.begin(chipselect)) {
     Serial.println("initialization failed!");
